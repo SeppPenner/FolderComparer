@@ -1,0 +1,136 @@
+[Root]
+Most Recent Package=Folder Comparer
+
+
+[Package|Folder Comparer|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Users\Tim\Desktop\Folder Comparer
+
+[Package|Folder Comparer|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Folder Comparer|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Folder Comparer|Files Found]
+License.txt=C:\Users\Tim\Desktop\Folder Comparer\Folder Comparer-Projekt\License.txt
+
+[Package|Folder Comparer|Files Released]
+
+[Package|Folder Comparer|Missing Dependency Information]
+C:\Windows\SysWOW64\quartz.dll=
+C:\Windows\System32\amcompat.tlb=
+
+[Package|Folder Comparer|Out-of-Date Dependency Information]
+C:\Windows\SysWOW64\scrrun.dll=
+C:\Windows\SysWOW64\msstdfmt.dll=
+
+[Package|Folder Comparer|Files Added]
+license.txt=
+ordner.png=
+ordner2.ico=
+
+[Package|Folder Comparer|Files Removed]
+
+[Package|Folder Comparer|Files In Project]
+C:\Windows\System32\msvbvm60.dll=Yes
+C:\Windows\System32\oleaut32.dll=Yes
+C:\Windows\System32\olepro32.dll=Yes
+C:\Windows\System32\asycfilt.dll=Yes
+C:\Windows\System32\stdole2.tlb=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Windows\SysWOW64\scrrun.dll=Yes
+C:\Windows\SysWOW64\msvcrt.dll=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Windows\System32\VB6STKIT.DLL=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Users\Tim\Desktop\Folder Comparer\Folder Comparer-Projekt\FolderComparer.exe=Yes
+C:\Users\Tim\Desktop\Folder Comparer\Folder Comparer-Projekt\License.txt=Yes
+C:\Users\Tim\Desktop\Folder Comparer\Folder Comparer-Projekt\Ordner.png=Yes
+C:\Users\Tim\Desktop\Folder Comparer\Folder Comparer-Projekt\Ordner2.ico=Yes
+
+[Package|Folder Comparer|Configure Registry Files]
+Applicable=No
+
+[Package|Folder Comparer|Configure Remote Servers]
+Applicable=No
+
+[Package|Folder Comparer|Install Locations]
+C:\Users\Tim\Desktop\Folder Comparer\FolderComparer.exe=$(AppPath)
+C:\Windows\System32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Windows\System32\oleaut32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\olepro32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\asycfilt.dll=$(WinSysPathSysFile)
+C:\Windows\System32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Windows\SysWOW64\quartz.dll=$(WinSysPath)
+C:\Windows\SysWOW64\msstdfmt.dll=$(WinSysPath)
+C:\Windows\SysWOW64\scrrun.dll=$(WinSysPath)
+C:\Windows\SysWOW64\msvcrt.dll=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Windows\System32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Users\Tim\Desktop\Folder Comparer\License.txt=$(AppPath)
+C:\Users\Tim\Desktop\Folder Comparer\Ordner.png=$(AppPath)
+C:\Users\Tim\Desktop\Folder Comparer\Ordner2.ico=$(AppPath)
+C:\Windows\System32\amcompat.tlb=$(WinSysPath)
+C:\Users\Tim\Desktop\Folder Comparer Komplett\Folder Comparer\Folder Comparer-Projekt\FolderComparer.exe=$(AppPath)
+C:\Users\Tim\Desktop\Folder Comparer Komplett\Folder Comparer\Folder Comparer-Projekt\License.txt=$(AppPath)
+C:\Users\Tim\Desktop\Folder Comparer Komplett\Folder Comparer\Folder Comparer-Projekt\Ordner.png=$(AppPath)
+C:\Users\Tim\Desktop\Folder Comparer Komplett\Folder Comparer\Folder Comparer-Projekt\Ordner2.ico=$(AppPath)
+C:\Users\Tim\Desktop\Folder Comparer Komplett\Folder Comparer-Projekt\FolderComparer.exe=$(AppPath)
+C:\Users\Tim\Desktop\Folder Comparer Komplett\Folder Comparer-Projekt\License.txt=$(AppPath)
+C:\Users\Tim\Desktop\Folder Comparer Komplett\Folder Comparer-Projekt\Ordner.png=$(AppPath)
+C:\Users\Tim\Desktop\Folder Comparer Komplett\Folder Comparer-Projekt\Ordner2.ico=$(AppPath)
+C:\Users\Tim\Desktop\Folder Comparer\Folder Comparer-Projekt\FolderComparer.exe=$(AppPath)
+C:\Users\Tim\Desktop\Folder Comparer\Folder Comparer-Projekt\License.txt=$(AppPath)
+C:\Users\Tim\Desktop\Folder Comparer\Folder Comparer-Projekt\Ordner.png=$(AppPath)
+C:\Users\Tim\Desktop\Folder Comparer\Folder Comparer-Projekt\Ordner2.ico=$(AppPath)
+
+[Package|Folder Comparer|Configure Shared Files]
+Applicable=Yes
+C:\Users\Tim\Desktop\Folder Comparer\FolderComparer.exe=No
+C:\Users\Tim\Desktop\Folder Comparer\License.txt=No
+C:\Users\Tim\Desktop\Folder Comparer\Ordner.png=No
+C:\Users\Tim\Desktop\Folder Comparer\Ordner2.ico=No
+C:\Users\Tim\Desktop\Folder Comparer Komplett\Folder Comparer\Folder Comparer-Projekt\FolderComparer.exe=No
+C:\Users\Tim\Desktop\Folder Comparer Komplett\Folder Comparer\Folder Comparer-Projekt\License.txt=No
+C:\Users\Tim\Desktop\Folder Comparer Komplett\Folder Comparer\Folder Comparer-Projekt\Ordner.png=No
+C:\Users\Tim\Desktop\Folder Comparer Komplett\Folder Comparer\Folder Comparer-Projekt\Ordner2.ico=No
+C:\Users\Tim\Desktop\Folder Comparer Komplett\Folder Comparer-Projekt\FolderComparer.exe=No
+C:\Users\Tim\Desktop\Folder Comparer Komplett\Folder Comparer-Projekt\License.txt=No
+C:\Users\Tim\Desktop\Folder Comparer Komplett\Folder Comparer-Projekt\Ordner.png=No
+C:\Users\Tim\Desktop\Folder Comparer Komplett\Folder Comparer-Projekt\Ordner2.ico=No
+C:\Users\Tim\Desktop\Folder Comparer\Folder Comparer-Projekt\FolderComparer.exe=No
+C:\Users\Tim\Desktop\Folder Comparer\Folder Comparer-Projekt\License.txt=No
+C:\Users\Tim\Desktop\Folder Comparer\Folder Comparer-Projekt\Ordner.png=No
+C:\Users\Tim\Desktop\Folder Comparer\Folder Comparer-Projekt\Ordner2.ico=No
+
+[Package|Folder Comparer|Distribution]
+Type=single
+Size=
+Title=Folder Comparer
+
+[Package|Folder Comparer|IconGroups]
+Group0=$(Programs)
+PrivateGroup0=True
+Parent0=
+
+[Package|Folder Comparer|$(Programs)]
+Icon1=FolderComparer.exe
+Title1=Folder Comparer
+StartIn1=$(AppPath)
+Key1=Icon3
+
+[Package|Folder Comparer|Package]
+PackageFolder=C:\Users\Tim\Desktop\Folder Comparer
+ProjectFolder=C:\Users\Tim\Desktop\Folder Comparer\Folder Comparer-Projekt
+ServerSideCab=
+File1=C:\Users\Tim\Desktop\Folder Comparer\setup.exe
+File2=C:\Users\Tim\Desktop\Folder Comparer\Setup.Lst
+File3=C:\Users\Tim\Desktop\Folder Comparer\FolderComparer.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
