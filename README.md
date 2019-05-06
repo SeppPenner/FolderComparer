@@ -9,8 +9,14 @@ Both are written and tested in Visual Basic 6.
 
 ## Screenshot from the executable:
 ![Screenshot from the executable](https://github.com/SeppPenner/FolderComparer/blob/master/Screenshot.PNG "Screenshot from the executable")
+[![GitHub issues](https://img.shields.io/github/issues/SeppPenner/FolderComparer.svg)](https://github.com/SeppPenner/FolderComparer/issues)
+[![GitHub forks](https://img.shields.io/github/forks/SeppPenner/FolderComparer.svg)](https://github.com/SeppPenner/FolderComparer/network)
+[![GitHub stars](https://img.shields.io/github/stars/SeppPenner/FolderComparer.svg)](https://github.com/SeppPenner/FolderComparer/stargazers)
+[![GitHub license](https://img.shields.io/badge/license-AGPL-blue.svg)](https://raw.githubusercontent.com/SeppPenner/FolderComparer/master/License.txt)
+[![Known Vulnerabilities](https://snyk.io/test/github/SeppPenner/FolderComparer/badge.svg)](https://snyk.io/test/github/SeppPenner/FolderComparer)
 
 Change history
 --------------
 
+* **Version 1.0.0.1 (2019-05-06)** : Added missing badges.
 * **Version 1.0.0.0 (2017-03-31)** : 1.0 release.
