@@ -8,7 +8,7 @@ Both are written and tested in Visual Basic 6.
 [![GitHub issues](https://img.shields.io/github/issues/SeppPenner/FolderComparer.svg)](https://github.com/SeppPenner/FolderComparer/issues)
 [![GitHub forks](https://img.shields.io/github/forks/SeppPenner/FolderComparer.svg)](https://github.com/SeppPenner/FolderComparer/network)
 [![GitHub stars](https://img.shields.io/github/stars/SeppPenner/FolderComparer.svg)](https://github.com/SeppPenner/FolderComparer/stargazers)
-[![GitHub license](https://img.shields.io/badge/license-AGPL-blue.svg)](https://raw.githubusercontent.com/SeppPenner/FolderComparer/master/License.txt)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://raw.githubusercontent.com/SeppPenner/FolderComparer/master/License.txt)
 [![Known Vulnerabilities](https://snyk.io/test/github/SeppPenner/FolderComparer/badge.svg)](https://snyk.io/test/github/SeppPenner/FolderComparer)
 
 ## Screenshot from the executable:
