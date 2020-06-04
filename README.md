@@ -17,5 +17,4 @@ Both are written and tested in Visual Basic 6.
 Change history
 --------------
 
-* **Version 1.0.0.1 (2019-05-06)** : Added missing badges.
-* **Version 1.0.0.0 (2017-03-31)** : 1.0 release.
+See the [Changelog](https://github.com/SeppPenner/FolderComparer/blob/master/Changelog.md).
